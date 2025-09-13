@@ -20,7 +20,7 @@ The goal was to uncover risk drivers, segment borrowers, and provide insights fo
 - Records: ~67,000 loan accounts  
 - Key variables: Credit score, delinquency history, income, repayment percentage, loan type, demographics  
 
-⚠️ **Note:** Due to size, the full dataset is not uploaded here. A sample file may be included for demonstration.  
+⚠️ **Note:** Due to size, the full dataset is not uploaded here. 
 
 ---
 
