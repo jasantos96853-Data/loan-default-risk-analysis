@@ -9,6 +9,7 @@ The goal was to uncover risk drivers, segment borrowers, and provide insights fo
 ## 🛠️ Tools & Skills Used
 - **Excel** – Data cleaning, exploratory analysis, pivot tables
 - **Tableau** – Interactive dashboards and risk tier visualizations
+- **SQL** – Data extraction, joins, aggregations, and filtering 
 - **Statistical Analysis** – Correlation, trend analysis, delinquency history
 - **Data Storytelling** – Presented insights with visuals for non-technical audiences
 
