@@ -1,12 +1,12 @@
 # Loan Default Risk Prediction
 
-## 📊 Project Overview
+## Project Overview
 This project analyzes **67,000+ bank loan accounts** to identify patterns in customer repayment behavior and predict default risk.  
 The goal was to uncover risk drivers, segment borrowers, and provide insights for improving lending decisions.
 
 ---
 
-## 🛠️ Tools & Skills Used
+## Tools & Skills Used
 - **Excel** – Data cleaning, exploratory analysis, pivot tables
 - **Tableau** – Interactive dashboards and risk tier visualizations
 - **SQL** – Data extraction, joins, aggregations, and filtering 
@@ -15,7 +15,7 @@ The goal was to uncover risk drivers, segment borrowers, and provide insights fo
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Source: [Kaggle – Bank Loan Defaulter Prediction](https://www.kaggle.com/datasets/ankitkalauni/bank-loan-defaulter-prediction-hackathon/data?select=train.csv)
 
 - Records: ~67,000 loan accounts  
@@ -25,19 +25,19 @@ The goal was to uncover risk drivers, segment borrowers, and provide insights fo
 
 ---
 
-## 🚀 Key Findings
+## Key Findings
 - Borrowers with **low credit scores** and prior delinquencies are **3x more likely** to default.  
 - Higher income-to-debt ratio reduces default probability significantly.  
 - Certain loan types (e.g., personal loans) showed higher delinquency rates than secured loans.  
 
 ---
 
-## 📊 Deliverables
+## Deliverables
 - [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jose.santos8298/viz/TableauProjectBanking/Story1?publish=yes)
 
 ---
 
-## 🎯 Business Impact
+## Business Impact
 This project demonstrates how financial institutions can use **data analytics to:**
 1. Segment borrowers by risk level  
 2. Reduce default rates by identifying high-risk profiles early  
